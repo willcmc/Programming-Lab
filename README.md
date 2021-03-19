@@ -1,4 +1,4 @@
-# pdslab
+# Programming and Data Structures Laboratory
 My codes for PDS Lab (CS19101) at IIT Kharagpur for UG first year.
 Instructor: Prof. Swagato Sanyal
 Autumn 2019 (First Semester)
